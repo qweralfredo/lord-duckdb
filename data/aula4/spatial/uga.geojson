@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "uga",
+"features": [
+{ "type": "Feature", "properties": { "country": "UGA", "id": 1.0, "latitude": 0.5833, "longitude": 32.5333, "name": "Bombo", "population": 75000.0 }, "geometry": { "type": "Point", "coordinates": [ 32.5333, 0.5833 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 2.0, "latitude": 0.671, "longitude": 30.275, "name": "Fort Portal", "population": 42670.0 }, "geometry": { "type": "Point", "coordinates": [ 30.275, 0.671 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 14.0, "latitude": 0.44042, "longitude": 33.19993, "name": "Jinja", "population": 301619.0 }, "geometry": { "type": "Point", "coordinates": [ 33.19993, 0.44042 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 15.0, "latitude": 3.02037, "longitude": 30.90002, "name": "Arua", "population": 250000.0 }, "geometry": { "type": "Point", "coordinates": [ 30.90002, 3.02037 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 16.0, "latitude": 1.09041, "longitude": 34.17, "name": "Mbale", "population": 402368.0 }, "geometry": { "type": "Point", "coordinates": [ 34.17, 1.09041 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 17.0, "latitude": 2.54035, "longitude": 34.63999, "name": "Moroto", "population": 371.0 }, "geometry": { "type": "Point", "coordinates": [ 34.63999, 2.54035 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 18.0, "latitude": -0.32961, "longitude": 31.72999, "name": "Masaka", "population": 65373.0 }, "geometry": { "type": "Point", "coordinates": [ 31.72999, -0.32961 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 19.0, "latitude": -0.59962, "longitude": 30.65, "name": "Mbarara", "population": 83700.0 }, "geometry": { "type": "Point", "coordinates": [ 30.65, -0.59962 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 244.0, "latitude": 2.78, "longitude": 32.28003, "name": "Gulu", "population": 146858.0 }, "geometry": { "type": "Point", "coordinates": [ 32.28003, 2.78 ] } },
+{ "type": "Feature", "properties": { "country": "UGA", "id": 786.0, "latitude": 0.31666, "longitude": 32.58332, "name": "Kampala", "population": 1420000.0 }, "geometry": { "type": "Point", "coordinates": [ 32.58332, 0.31666 ] } }
+]
+}

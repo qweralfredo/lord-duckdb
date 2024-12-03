@@ -1,0 +1,1 @@
+select * from read_csv('data/movie_metadata.csv');

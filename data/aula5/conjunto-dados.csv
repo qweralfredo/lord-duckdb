@@ -1,0 +1,116 @@
+﻿"Organização";"Nome";"Descrição";"Tags";"Quantidade Recursos";"Quantidade Reusos";"Quantidade Downloads";"Quantidade Seguidores"
+"Fundação Nacional de Saúde - Funasa";"Indicadores sobre Saneamento em Áreas Indígenas Funasa";"Série histórica de indicadores dos resultados governamentais relativos à Saneamento em Áreas Indígenas Funasa. PGI é um repositório de informações estruturadas (indicadores) à feição dos processos de governança para o Governo Federal; ou seja, um repositório de compartilhamento de indicadores de políticas públicas.
+
+**Atenção:** os dados das séries de indicadores são fornecidos por seu valor
+histórico e não serão mais atualizados após dezembro/2014.
+
+Fonte: [Plataforma de Gestão de Indicadores (PGI)](http://pgi.gov.br/pgi/)
+
+## Sobre o PGI
+
+A Plataforma de Gestão de Indicadores (PGI) foi uma ferramenta criada em 2010,
+no âmbito do [projeto I3Gov](https://i3gov.planejamento.gov.br/), para agregar
+séries de indicadores de gestão a partir de informações prestadas por diversos
+órgãos federais.
+
+Foi desativada no início de 2015 pela Casa Civil da Presidência da República,
+entretanto, ficou estabelecido que o Ministério do Planejamento, Orçamento e
+Gestão manteria disponíveis os dados históricos que haviam sido cadastrados
+até dezembro de 2014.
+
+Cada grupo de série histórica foi mapeada para um conjunto de dados e cada
+série de indicadores foi mapeada para um recurso. Os dados são servidos nos
+formatos XML e JSON pela API do PGI.
+";"Indicador,PGI";"12";"0";"2045";"1"
+"Fundação Nacional de Saúde - Funasa";"Indicadores sobre Saneamento Áreas Especiais Funasa";"Série histórica de indicadores dos resultados governamentais relativos à Saneamento Áreas Especiais Funasa. PGI é um repositório de informações estruturadas (indicadores) à feição dos processos de governança para o Governo Federal; ou seja, um repositório de compartilhamento de indicadores de políticas públicas.
+
+**Atenção:** os dados das séries de indicadores são fornecidos por seu valor
+histórico e não serão mais atualizados após dezembro/2014.
+
+Fonte: [Plataforma de Gestão de Indicadores (PGI)](http://pgi.gov.br/pgi/)
+
+## Sobre o PGI
+
+A Plataforma de Gestão de Indicadores (PGI) foi uma ferramenta criada em 2010,
+no âmbito do [projeto I3Gov](https://i3gov.planejamento.gov.br/), para agregar
+séries de indicadores de gestão a partir de informações prestadas por diversos
+órgãos federais.
+
+Foi desativada no início de 2015 pela Casa Civil da Presidência da República,
+entretanto, ficou estabelecido que o Ministério do Planejamento, Orçamento e
+Gestão manteria disponíveis os dados históricos que haviam sido cadastrados
+até dezembro de 2014.
+
+Cada grupo de série histórica foi mapeada para um conjunto de dados e cada
+série de indicadores foi mapeada para um recurso. Os dados são servidos nos
+formatos XML e JSON pela API do PGI.
+";"Indicador,PGI,saneamento";"10";"0";"367";"0"
+"Fundação Nacional de Saúde - Funasa";"Indicadores sobre Resíduos Sólidos - Funasa";"Série histórica de indicadores dos resultados governamentais relativos à Resíduos Sólidos - Funasa. PGI é um repositório de informações estruturadas (indicadores) à feição dos processos de governança para o Governo Federal; ou seja, um repositório de compartilhamento de indicadores de políticas públicas.
+
+**Atenção:** os dados das séries de indicadores são fornecidos por seu valor
+histórico e não serão mais atualizados após dezembro/2014.
+
+Fonte: [Plataforma de Gestão de Indicadores (PGI)](http://pgi.gov.br/pgi/)
+
+## Sobre o PGI
+
+A Plataforma de Gestão de Indicadores (PGI) foi uma ferramenta criada em 2010,
+no âmbito do [projeto I3Gov](https://i3gov.planejamento.gov.br/), para agregar
+séries de indicadores de gestão a partir de informações prestadas por diversos
+órgãos federais.
+
+Foi desativada no início de 2015 pela Casa Civil da Presidência da República,
+entretanto, ficou estabelecido que o Ministério do Planejamento, Orçamento e
+Gestão manteria disponíveis os dados históricos que haviam sido cadastrados
+até dezembro de 2014.
+
+Cada grupo de série histórica foi mapeada para um conjunto de dados e cada
+série de indicadores foi mapeada para um recurso. Os dados são servidos nos
+formatos XML e JSON pela API do PGI.
+";"Indicador,PGI";"12";"0";"623";"0"
+"Fundação Nacional de Saúde - Funasa";"Indicadores sobre Esgotamento Sanitário Funasa";"Série histórica de indicadores dos resultados governamentais relativos à Esgotamento Sanitário Funasa. PGI é um repositório de informações estruturadas (indicadores) à feição dos processos de governança para o Governo Federal; ou seja, um repositório de compartilhamento de indicadores de políticas públicas.
+
+**Atenção:** os dados das séries de indicadores são fornecidos por seu valor
+histórico e não serão mais atualizados após dezembro/2014.
+
+Fonte: [Plataforma de Gestão de Indicadores (PGI)](http://pgi.gov.br/pgi/)
+
+## Sobre o PGI
+
+A Plataforma de Gestão de Indicadores (PGI) foi uma ferramenta criada em 2010,
+no âmbito do [projeto I3Gov](https://i3gov.planejamento.gov.br/), para agregar
+séries de indicadores de gestão a partir de informações prestadas por diversos
+órgãos federais.
+
+Foi desativada no início de 2015 pela Casa Civil da Presidência da República,
+entretanto, ficou estabelecido que o Ministério do Planejamento, Orçamento e
+Gestão manteria disponíveis os dados históricos que haviam sido cadastrados
+até dezembro de 2014.
+
+Cada grupo de série histórica foi mapeada para um conjunto de dados e cada
+série de indicadores foi mapeada para um recurso. Os dados são servidos nos
+formatos XML e JSON pela API do PGI.
+";"Indicador,PGI,saneamento";"12";"0";"551";"0"
+"Fundação Nacional de Saúde - Funasa";"Indicadores sobre Abastecimento de Água - Funasa";"Série histórica de indicadores dos resultados governamentais relativos à Abastecimento de Água - Funasa. PGI é um repositório de informações estruturadas (indicadores) à feição dos processos de governança para o Governo Federal; ou seja, um repositório de compartilhamento de indicadores de políticas públicas.
+
+**Atenção:** os dados das séries de indicadores são fornecidos por seu valor
+histórico e não serão mais atualizados após dezembro/2014.
+
+Fonte: [Plataforma de Gestão de Indicadores (PGI)](http://pgi.gov.br/pgi/)
+
+## Sobre o PGI
+
+A Plataforma de Gestão de Indicadores (PGI) foi uma ferramenta criada em 2010,
+no âmbito do [projeto I3Gov](https://i3gov.planejamento.gov.br/), para agregar
+séries de indicadores de gestão a partir de informações prestadas por diversos
+órgãos federais.
+
+Foi desativada no início de 2015 pela Casa Civil da Presidência da República,
+entretanto, ficou estabelecido que o Ministério do Planejamento, Orçamento e
+Gestão manteria disponíveis os dados históricos que haviam sido cadastrados
+até dezembro de 2014.
+
+Cada grupo de série histórica foi mapeada para um conjunto de dados e cada
+série de indicadores foi mapeada para um recurso. Os dados são servidos nos
+formatos XML e JSON pela API do PGI.
+";"Indicador,PGI";"12";"0";"1403";"2"
